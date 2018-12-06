@@ -1,3 +1,5 @@
+#This is an automated test sequence that, upon test suite completion, checks to see if the tests were successful or not and, if so, sends an ascii image from a .txt file to the command line
+#@author Scott Frauenknecht saf6260
 echo "Executing tests for webcheckers"
 
 #This is the execution line. The first argument is the execution information for the test suite.
