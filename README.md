@@ -6,3 +6,5 @@ Create a zip file of your current project. If you're currently in SWEN-261 at RI
 
 ### Bug issues
 If any issues are encountered when running the script, please open up a PR. If you get the message "No .zip files found", it most likely means you did not put the script and the .zip in the same directory. Please check this before opening an issue.
+
+#### Mac Support Added by @alex-taffe
